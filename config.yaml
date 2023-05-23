@@ -52,7 +52,7 @@ permalinks:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: Apiporn Simapornchai
-  author: Karn Wong
+  author: Apiporn Simapornchai
   # author: ["Me", "You"] # multiple authors
 
   assets:
