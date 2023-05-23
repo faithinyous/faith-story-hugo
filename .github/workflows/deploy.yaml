@@ -62,6 +62,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID}}
-          projectName: faith-story-hugo
+          projectName: faith-story
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
