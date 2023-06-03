@@ -22,3 +22,10 @@ git submodule foreach git pull origin master
 # with images
 ./create-post.sh -n $TITLE -t $TAG -i true
 ```
+
+## Change google analytics
+
+> config.yaml
+> 
+> googleAnalytics: $ID <-- change to your google tag ID
+
