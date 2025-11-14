@@ -40,7 +40,7 @@ outputs:
     - JSON
 
 permalinks:
-  posts: "/:section/:year/:month/:slugorfilename/"
+  posts: "/:section/:year/:month/:slugorcontentbasename/"
 
 params:
   env: production
@@ -65,6 +65,18 @@ params:
     title: "Apiporn Simapornchai (Faith)"
     subtitle: "Chief of Technology Officer | Lecturer | Advisors"
 
+  # Fix for deprecated .Site.Social
+  social:
+    - icon: github
+      url: "https://github.com/faithinyous"
+    - icon: linkedin
+      url: "https://www.linkedin.com/in/faithinyou/"
+    - icon: email
+      url: "mailto:apiporn.sima@gmail.com"
+    - icon: rss
+      url: "index.xml"
+
+  # PaperMod specific UI
   socialIcons:
     - name: github
       url: "https://github.com/faithinyous"
@@ -75,7 +87,6 @@ params:
     - name: RsS
       url: "index.xml"
 
-  # Recommended PaperMod options (optional)
   editPost:
     URL: "https://github.com/faithinyous/faithstory-hugo/edit/main/content/"
     Text: "Suggest Changes"
@@ -90,14 +101,10 @@ markup:
   highlight:
     style: monokai
 
+# Updated to remove deprecated privacy.twitter.* keys
 privacy:
   vimeo:
     disabled: false
-    simple: true
-
-  twitter:
-    disabled: false
-    enableDNT: true
     simple: true
 
   instagram:
@@ -108,8 +115,16 @@ privacy:
     disabled: false
     privacyEnhanced: true
 
+  # NEW merged privacy.x section
+  x:
+    enableDNT: true
+    simple: true
+
+# Updated to remove deprecated services.twitter.disableInlineCSS
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+
+  # NEW merged services.x section
+  x:
     disableInlineCSS: true
