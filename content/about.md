@@ -8,20 +8,31 @@ ShowToc: false
 
 [//]: # (![me-at-grill-the-data]&#40;/about/me-at-grill-the-data.jpg&#41;)
 
-Throughout my career, I have held significant roles in the tech industry, showcasing my expertise and passion for
-innovation. Currently, I serve as the CTO at [Baania Thailand Co., Ltd.,](https://baaniathailand.com) where my primary
-focus is leading the development of an impressive online property marketplace and overseeing related services.
-Additionally, I continue to support SEEK ONE Group as their CTO, working towards optimizing blue-collar job efficiency
-and enhancing consumer services through technology.
+I am a technology leader and entrepreneur with over a decade of experience 
+building scalable systems and leading technical teams across diverse industries. 
+My career spans from pioneering cloud-based 3D object recognition research to 
+architecting enterprise platforms that serve thousands of users.
 
-In addition to my leadership positions, I am also the proud founder of Guerrilla Tech Co. Ltd., where I have
-successfully managed diverse projects, ranging from creating captivating gaming systems to designing efficient inventory
-management solutions. Furthermore, I have had the privilege of sharing my knowledge as a lecturer at Stamford
-International University, guiding and inspiring students in various IT subjects.
+As founder of Guerrilla Tech Co. Ltd., I've delivered full-stack solutions 
+across gaming, inventory management, warehouse systems, and ERP integrations 
+for clients ranging from startups to established enterprises. My technical 
+expertise includes modern JavaScript frameworks (Vue.js, Quasar), backend 
+systems (Node.js), and various databases (PostgreSQL, MongoDB, MS SQL), 
+with a strong focus on cloud architecture and system security.
 
-Throughout my journey, I have consistently demonstrated strong leadership abilities and technical acumen. With
-experience in service engineering and research, I continuously strive to stay ahead of the curve by embracing emerging
-technologies and delivering tangible results across different domains.
+I've also served as CTO at Baania Thailand, where I built their online property 
+marketplace ecosystem, and at SEEK ONE Group, where I developed innovative 
+solutions making blue-collar employment more efficient through technology. 
+These leadership roles have strengthened my ability to scale teams, architect
+complex systems, and translate business vision into technical reality.
+
+Beyond building products, I'm passionate about knowledge sharing. As a former 
+lecturer at Stamford International University, I taught programming, database 
+design, mobile development, and information security. I continue to advise 
+companies on platform development and microservices architecture.
+
+I thrive at the intersection of emerging technologies and practical business 
+solutions, consistently delivering systems that drive measurable impact.
 
 
 [//]: # ()

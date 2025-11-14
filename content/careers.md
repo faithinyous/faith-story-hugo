@@ -18,42 +18,45 @@ I am a tech expert with a strong background in research and development.
 
 ## Work Experience
 
-### CTO, Baania Thailand Co., Ltd. (February 2022 - Present)
+### Founder and CEO, Guerrilla Tech Co. Ltd. (2018 - Present)
+Projects include:
+- **YokPokYing Lazer Game**
+  - Client: Future Game Co., Ltd.
+  - Developed gaming ranking system using a QR code scanner and implemented Facebook login
+  - Stack: Quasar, Nodejs, PostgreSQL
+- **Stock and Inventory Management System**
+  - Client: Sarathat Engineering Co., Ltd.
+  - Designed and developed inventory management system and application, switching to a paperless system
+  - Stack: VUEjs, Nodejs, PostgreSQL, MongoDB
+- **Store Front Application**
+  - Client: MBP Leather Industries Co. Ltd
+  - Designed an application for real-time sales and connected the application to the customer ERP system (Exact Globe)
+  - Stack: VUEjs, Nodejs, MsSQL
+- **Analysis and Design Architecture for cloud system**
+  - Client: MBP Leather Industries Co. Ltd
+  - Implemented VPN for company security using OpenVPN
+  - Migrated ERP Software to cloud service (Exact Globe, Synergy)
+- **Website Platform Front and Back End Development**
+  - Client: Ponder & Play Inc. (USA Base)
+  - Stack: VUEjs, Nodejs, PostgreSQL+PostGIS
+- **Internal CDN, Company-owned service**
+  - Client: Company-owned Service
+  - Stack: Nodejs, Google API
+- **Warehouse Management System**
+  - Client: Company-owned Service
+  - Stack: VUEjs, Nodejs, PostgreSQL, MongoDB, Metabase
+
+### CTO, Baania Thailand Co., Ltd. (February 2022 - March 2024)
 - **Baania Marketplace**: Online property marketplace
 - **Bestimate**: Estimate property valuation price
 - **Prop2share**: Real-estate Agent portal
 - Lecture and advisor to various company about developing platform and microservices
 
-### CTO, SEEK ONE Group (January 2021 - Present)
+### CTO, SEEK ONE Group (January 2021 - May 2023)
 - **Seekster Co., Ltd.** and **Workforce Co., Ltd.**
 - Market leader in making blue-collar jobs more efficient through technology and providing exceptional consumer services.
 - **SkyVenture Co., Ltd (SKY OS)**: Community management system for markets, shopping malls, community malls, and rental spaces
 - **SEEK GIG**: Blockchain (Details currently being disclosed)
-
-### Founder and CEO, Guerrilla Tech Co. Ltd. (2018 - Present)
-Projects include:
-- **YokPokYing Lazer Game**
-    - Client: Future Game Co., Ltd.
-    - Developed gaming ranking system using a QR code scanner and implemented Facebook login
-    - Stack: Quasar, Nodejs, PostgreSQL
-- **Stock and Inventory Management System**
-    - Client: Sarathat Engineering Co., Ltd.
-    - Designed and developed inventory management system and application, switching to a paperless system
-    - Stack: VUEjs, Nodejs, PostgreSQL, MongoDB
-- **Store Front Application**
-    - Client: MBP Leather Industries Co. Ltd
-    - Designed an application for real-time sales and connected the application to the customer ERP system (Exact Globe)
-    - Stack: VUEjs, Nodejs, MsSQL
-- **Analysis and Design Architecture for cloud system**
-    - Client: MBP Leather Industries Co. Ltd
-    - Implemented VPN for company security using OpenVPN
-    - Migrated ERP Software to cloud service (Exact Globe, Synergy)
-- **Website Platform Front and Back End Development**
-    - Client: Ponder & Play Inc. (USA Base)
-    - Stack: VUEjs, Nodejs, PostgreSQL+PostGIS
-- **Internal CDN, Company-owned service**
-    - Client: Company-owned Service
-    - Stack: Nodejs, Google API
 
 ### Full-time Lecturer, Stamford International University (July 2017 – October 2019)
 - Information Technology Lecturer
