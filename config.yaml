@@ -87,10 +87,10 @@ params:
     - name: RsS
       url: "index.xml"
 
-  editPost:
-    URL: "https://github.com/faithinyous/faithstory-hugo/edit/main/content/"
-    Text: "Suggest Changes"
-    appendFilePath: true
+#  editPost:
+#    URL: "https://github.com/faithinyous/faithstory-hugo/edit/main/content/"
+#    Text: "Suggest Changes"
+#    appendFilePath: true
 
 taxonomies:
   category: categories
