@@ -2,7 +2,8 @@
 baseURL: https://faithstory.info/
 # baseURL: "/"
 title: Apiporn Simapornchai (Faith)
-paginate: 5
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
